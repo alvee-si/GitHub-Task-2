@@ -1,0 +1,16 @@
+MEMBER MANAGEMENT FEATURE
+==========================
+
+Project: Library Management System
+
+Description:
+This feature manages library member information.
+
+Functionalities:
+1. Register new library members.
+2. Update member information.
+3. View member details.
+4. Search members by ID.
+5. Maintain member records.
+
+Status: Completed
