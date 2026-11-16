@@ -1,0 +1,16 @@
+BOOK MANAGEMENT FEATURE
+=======================
+
+Project: Library Management System
+
+Description:
+This feature manages library book information.
+
+Functionalities:
+1. Add new books.
+2. Update book information.
+3. View available books.
+4. Remove outdated book records.
+5. Search books by title.
+
+Status: Work in Progress
